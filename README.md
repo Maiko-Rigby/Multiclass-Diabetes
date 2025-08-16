@@ -1,0 +1,1 @@
+A data-driven system for analyzing patient health outcomes, using statistical analysis and visualization to identify patterns and significant differences between non-diabetic, diabetic, and predicted diabetic groups. The system applies chi-square tests to uncover associations between variables and classes, providing insights into key factors that influence health status.
